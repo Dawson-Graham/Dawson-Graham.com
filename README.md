@@ -1,4 +1,4 @@
-# Dawson-Graham.github.io
+# dawson-graham.com
 
-[Go to the site](https://dawson-graham.github.io/)
+[Go to the site](https://dawson-graham.com/)
 
